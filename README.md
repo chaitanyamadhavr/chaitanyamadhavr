@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Deep Learning, Python, Machine Vision, Generative AI**
 
-- 📫 How to reach me **chaitanyamadhav2002@gmail.com**
+- 📫 How to reach me **chaitanya_madhav@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
