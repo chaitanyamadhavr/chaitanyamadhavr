@@ -1,4 +1,3 @@
-![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Chaitanya Madhav</h1>
 <h3 align="center">A passionate AL/ML Enthusiast from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
